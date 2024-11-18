@@ -30,9 +30,8 @@ Vous pouvez explorer mes projets récents dans les sections ci-dessous. J'essaie
 
 Je serais ravi d'échanger avec vous ! Voici quelques liens pour me contacter ou découvrir mes réseaux :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@gmail.com)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Perla-Assuied/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perlaassuied645@gmail.com)
 
 ---
 
