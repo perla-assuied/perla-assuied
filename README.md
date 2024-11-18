@@ -3,7 +3,7 @@
 Je suis une apprentit developpeuse.
 
 
-![banniere](/.banniere.png)
+![banniere](banniere.png)
 
 **perla-assuied/perla-assuied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
