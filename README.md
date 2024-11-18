@@ -1,7 +1,5 @@
 # Salut, moi c'est Perla ! 👋
 ## Bienvenu sur mon profil Github !
-Je suis une apprentit developpeuse.
-
 
 ![banniere](banniere.png)
 
