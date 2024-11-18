@@ -1,7 +1,10 @@
-## Hi there 👋
+# Salut, moi c'est Perla ! 👋
+## Bienvenu sur mon profil Github !
+Je suis une apprentit developpeuse.
 
-<!--
-**perla-assuied/perla-assuied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<[bannière.png]>
+**perla-assuied/perla-ashttps://github.com/perla-assuiedsuied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
