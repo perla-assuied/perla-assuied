@@ -20,7 +20,7 @@ Je suis une passionnée de technologie avec un focus sur le développement web e
 
 Vous pouvez explorer mes projets récents dans les sections ci-dessous. J'essaie toujours de partager des projets intéressants et utiles pour la communauté !
 
-- [Projet 1 : Nom du projet](lien_du_projet) - Une description rapide de ce que fait le projet.
+- [Projet 1 : job1 (https://github.com/perla-assuied/job1)) - je vosu présente mon CV en HTML.
 - [Projet 2 : Nom du projet](lien_du_projet) - Une autre description de projet.
 - [Projet 3 : Nom du projet](lien_du_projet) - Encore un autre projet intéressant.
 
